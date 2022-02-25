@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'dropdown_rating_form_field.dart';
 import '../db/database_manager.dart';
 import '../db/journal_entry_dto.dart';
 
